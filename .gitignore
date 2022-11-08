@@ -6,7 +6,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
-*.sch-bak
+*.kicad_sch-bak
 *~
 _autosave-*
 *.tmp
@@ -24,3 +24,9 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Backups
+hardware/badge/MZ2023-backups/*
+
+# Mac stuff
+*.DS_Store
