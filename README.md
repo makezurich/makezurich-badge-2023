@@ -1,2 +1,1 @@
-# badge2023
-Repo for the badge, hardware, software and examples.
+# badge 2023
