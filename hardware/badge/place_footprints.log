@@ -1,0 +1,94 @@
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'darwin'
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.8.2 (v3.8.2:7b3ab5921f, Feb 24 2020, 17:52:18) \n[Clang 6.0 (clang-600.0.57)]'
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.7-1)-1
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x7f8a093c2e50>
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F386 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R6 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F201 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F2A8 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F503 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint Q2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F1D8 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J5 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F378 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F3AE does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F305 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F4F7 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F322 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F4DE does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F495 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F2D1 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R5 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F490 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D7 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F4A2 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D4 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D6 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F3A3 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D10 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R4 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D5 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F536 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J3 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J4 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F224 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint D9 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint SW4 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6368F610 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-6369234D does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP6 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP5 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-636923C0 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J6 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP2 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP1 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP7 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP4 on root level
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 133:Footprint kibuzzard-63692365 does not have Sheetfile property, it will not be considered for placement. Most likely it is only in layout
+11-09 00:07:09 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP3 on root level
+11-09 00:07:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference designator is: D
+11-09 00:07:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 571:Reference number is: 1
+11-09 00:07:11 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 603:Sorted and filtered list:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7']
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 641:Footprints to place:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6']
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 262:Starting placing with circular layout
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 272:reference footprint position at: wxPoint(94209746, 100570000)
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 277:rotation center at: (94209746, 112570000.0)
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.place_footprints 379:Text of: D1 has property "Keep upright" rotation might not look as intended
+11-09 00:07:24 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 654:Placing complete
