@@ -3230,7 +3230,7 @@
   (symbol (lib_id "Device:LED") (at 99.695 172.085 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4f8c9628-c750-4e20-82cf-aa0b1a8148d0)
-    (property "Reference" "D?" (id 0) (at 94.615 172.085 90)
+    (property "Reference" "D8" (id 0) (at 94.615 172.085 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LED" (id 1) (at 94.615 174.625 90)
@@ -4225,11 +4225,11 @@
     (path "/ebf7d194-df51-4286-9e0e-b3c688613e3d"
       (reference "D7") (unit 1) (value "BAT") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
+    (path "/4f8c9628-c750-4e20-82cf-aa0b1a8148d0"
+      (reference "D8") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
     (path "/b73d2bff-4e30-4a85-84b9-cfb8c50036f7"
       (reference "D10") (unit 1) (value "LL4448 L1G") (footprint "Diode_SMD:D_MiniMELF")
-    )
-    (path "/4f8c9628-c750-4e20-82cf-aa0b1a8148d0"
-      (reference "D?") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/c9f9dc46-8393-47e9-87a9-e5f3507d1f5d"
       (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Tillo:Grove_SMD")
