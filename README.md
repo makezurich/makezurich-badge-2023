@@ -10,7 +10,7 @@
 ## Design 
 * Sandwich
 * LEDs shine trough the board
-* Different graphics for the different roles
+* Different <s>graphics</s>SAOs for the different roles
 * Resistors allow the badge to detect which role is plugged in
 
 ## PSU
