@@ -1,12 +1,7 @@
----
-title: "Badge"
-date: 2022-09-20
-author: Tillo
-id: 20220920183855
-mainfont: Cochin
-toc: true
-toc-depth: 2
----
+| title | date | author | id | mainfont | toc | toc-depth |
+| --- | --- | --- | --- | --- | --- | --- |
+|"Badge"|2022-09-20|Tillo|20220920183855|Cochin|true|2|
+|"Badge"|2023-04-24|Fede|?|Cochin|true|2|
 
 ## Badge 
 
