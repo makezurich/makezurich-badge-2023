@@ -22,9 +22,10 @@ toc-depth: 2
 * Adafruit Feather LiPo circuit
 
 ## IO
+* LoRa E5
 * Shitty Addon
 * Cover connectors 
-
+* Grove connectors
 
 ## Resources
 
@@ -35,7 +36,7 @@ https://github.com/todbot/circuitpython-tricks
 
 
 
-### Grove LoRa E5
+### LoRa E5
 https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/
 
 https://www.hackster.io/sidikalamini/grove-lora-e5-p2p-communication-using-circuitpython-f970e6
