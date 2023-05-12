@@ -476,6 +476,10 @@
       {
         "netclass": "Power",
         "pattern": "VBUS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/VBAT"
       }
     ]
   },
