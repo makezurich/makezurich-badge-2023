@@ -1,0 +1,14 @@
+### Missing 3D models - created on 2023-02-08 21:15
+### Printed by checking_3D_models plugin
+Board file: /Users/tillo/Documents/MZ/badge2023/hardware/badge/MZ2023.kicad_pcb
+3D missing models written to:
+/Users/tillo/Documents/MZ/badge2023/hardware/badge/MZ2023_missing3Dmodels.txt
+-------
+('SW3', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_KMR2.wrl')
+('U1', '/Users/tillo/Documents/KiCad/libs/kicad-libraries/3d/Pico.wrl')
+('SW1', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_KMR2.wrl')
+('SW2', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_KMR2.wrl')
+('SW4', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Button_Switch_THT.3dshapes/SW_CuK_OS102011MA1QN1_SPDT_Angled.wrl')
+-------
+NUM of 3D missing models:5
+checked extensions ['.stp', '.step', '.stpZ']
