@@ -6,7 +6,8 @@
 
 ## Badge 
 
-![](imgs/Badge.png)
+## Pinout
+![](makezurich2023-badge-pinout.png)
 
 ## Design 
 * Sandwich
