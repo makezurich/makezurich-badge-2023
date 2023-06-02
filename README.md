@@ -1,4 +1,4 @@
-## Badge 
+## #MakeZurich 2023 Badge
 
 ## Pinout
 ![](makezurich2023-badge-pinout.png)
