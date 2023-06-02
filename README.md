@@ -23,9 +23,9 @@
 ### CircuitPython
 https://github.com/makezurich/badge2023-circuitpython
 
-https://www.circuitpython.org
-
 https://github.com/todbot/circuitpython-tricks
+
+https://www.circuitpython.org
 
 ### LoRa E5
 https://wiki.seeedstudio.com/Grove_LoRa_E5_New_Version/
