@@ -3,12 +3,6 @@
 ## Pinout
 ![](makezurich2023-badge-pinout.png)
 
-## Design 
-* Sandwich
-* LEDs shine trough the board
-* Different SAO Addons for the different roles
-* Resistors allow the badge to detect which role is plugged in
-
 ## PSU
 * Adafruit Feather LiPo circuit
 
