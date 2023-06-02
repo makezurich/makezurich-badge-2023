@@ -21,6 +21,8 @@
 ## Resources
 
 ### CircuitPython
+https://github.com/makezurich/badge2023-circuitpython
+
 https://www.circuitpython.org
 
 https://github.com/todbot/circuitpython-tricks
